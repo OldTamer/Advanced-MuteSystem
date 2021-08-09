@@ -1,0 +1,12 @@
+{
+    "botSettings":{
+        "prefix":""
+    },
+    "mongoSettings":{
+        "mongoPath":"mongodb+srv://TamerDev:<password>@mycooldiscordbot.lij33.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "password":"tpgkhdz123"
+    },
+    "otherSettings":{
+        "owner":"853031331407462450"
+    }
+}
