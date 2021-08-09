@@ -3,10 +3,10 @@
         "prefix":""
     },
     "mongoSettings":{
-        "mongoPath":"mongodb+srv://TamerDev:<password>@mycooldiscordbot.lij33.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-        "password":"tpgkhdz123"
+        "mongoPath":"",
+        "password":""
     },
     "otherSettings":{
-        "owner":"853031331407462450"
+        "owner":""
     }
 }
